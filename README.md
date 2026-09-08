@@ -18,11 +18,9 @@ The main objectives of this project are to:
 - Document the complete setup process
   
 ### 🛡️ Why This Lab Exists
-Before running any security tool against a real target, We need somewhere safe to break things without breaking anything that matters. That's what this setup provides a closed off network where Kali Linux can scan, and test without ever touching the outside world. Everything here stays contained to machines I own or have explicit permission to test.
-
+Before running any security tool against a real target, I need somewhere safe to break things without breaking anything that matters. That's what this setup provides a closed off network where Kali Linux can scan, and test without ever touching the outside world. Everything here stays contained to machines I own or have permission to test.
 
 ⚠️ Important: this lab must only be used for systems you own or have explicit permission to test never against unauthorized systems.
-
 
 ![Lab Architecture](screenshot-1-title-image.jpg)
 
